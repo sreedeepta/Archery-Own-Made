@@ -1,0 +1,14 @@
+canvas {
+    border: 3px solid darkblue;
+    background-image:url("images/bg2.gif");
+    background-repeat: no-repeat;
+}
+
+#reset{
+	width:800px;
+	height:40px;
+    background-color: #f44336;
+    font-size:30px;
+    color: white;
+    cursor: pointer;
+    }
